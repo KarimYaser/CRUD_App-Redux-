@@ -58,7 +58,7 @@ function Posts() {
           Add Post
         </button>
       </div>
-      <div className="Posts">
+      <div className="Postss">
         {posts.length > 0
           ? posts.map((post) => {
               return (
